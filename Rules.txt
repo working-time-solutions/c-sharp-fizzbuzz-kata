@@ -1,0 +1,4 @@
+returns n
+returns Fizz if a multiple of 3
+returns Buzz if a multiple of 5
+returns fizzbuzz if a multiple of 5 and 3
